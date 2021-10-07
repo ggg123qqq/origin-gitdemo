@@ -11,6 +11,8 @@ public class practice {
                 System.out.println(n);
             }
             System.out.println("修改");
+            System.out.println("master修改");
+            System.out.println("master修改");
         }
     }
 }
