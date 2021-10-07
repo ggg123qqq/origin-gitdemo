@@ -10,6 +10,7 @@ public class practice {
             for (int n=1;n<=i;n++){
                 System.out.println(n);
             }
+            System.out.println("修改");
         }
     }
 }
